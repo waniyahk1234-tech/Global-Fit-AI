@@ -1,0 +1,6 @@
+{
+  "name": "Global Fit AI",
+  "description": "AI-powered visual fashion and product search engine finding exact outfits and items across global stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
